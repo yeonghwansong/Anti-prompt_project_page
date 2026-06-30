@@ -1,0 +1,500 @@
+{
+  "cog": [
+    {
+      "group": "white-box",
+      "prompt": "a woman with long black hair is posing for a picture",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a woman with long black hair is posing for a picture.mp4",
+      "dst": "static/videos/cog/white-box-a-woman-with-long-black-hair-is-posing-for-a-picture-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a woman with long black hair is posing for a picture",
+      "method": "i2vguard",
+      "src": "/workspace/vbench_i2vguard/a woman with long black hair is posing for a picture.mp4",
+      "dst": "static/videos/cog/white-box-a-woman-with-long-black-hair-is-posing-for-a-picture-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a woman with long black hair is posing for a picture",
+      "method": "ours",
+      "src": "/workspace/mid50_w_prompt/a woman with long black hair is posing for a picture.mp4",
+      "dst": "static/videos/cog/white-box-a-woman-with-long-black-hair-is-posing-for-a-picture-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a man standing on a boat with a net",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a man standing on a boat with a net.mp4",
+      "dst": "static/videos/cog/white-box-a-man-standing-on-a-boat-with-a-net-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a man standing on a boat with a net",
+      "method": "i2vguard",
+      "src": "/workspace/vbench_i2vguard/a man standing on a boat with a net.mp4",
+      "dst": "static/videos/cog/white-box-a-man-standing-on-a-boat-with-a-net-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a man standing on a boat with a net",
+      "method": "ours",
+      "src": "/workspace/mid50_w_prompt/a man standing on a boat with a net.mp4",
+      "dst": "static/videos/cog/white-box-a-man-standing-on-a-boat-with-a-net-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a man holding a tray in front of a brick wall",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a man holding a tray in front of a brick wall.mp4",
+      "dst": "static/videos/cog/white-box-a-man-holding-a-tray-in-front-of-a-brick-wall-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a man holding a tray in front of a brick wall",
+      "method": "i2vguard",
+      "src": "/workspace/vbench_i2vguard/a man holding a tray in front of a brick wall.mp4",
+      "dst": "static/videos/cog/white-box-a-man-holding-a-tray-in-front-of-a-brick-wall-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a man holding a tray in front of a brick wall",
+      "method": "ours",
+      "src": "/workspace/mid50_w_prompt/a man holding a tray in front of a brick wall.mp4",
+      "dst": "static/videos/cog/white-box-a-man-holding-a-tray-in-front-of-a-brick-wall-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "an aerial view of a busy city with a bridge in the background",
+      "method": "clean",
+      "src": "/workspace/coggen_results/an aerial view of a busy city with a bridge in the background.mp4",
+      "dst": "static/videos/cog/white-box-an-aerial-view-of-a-busy-city-with-a-bridge-in-the-background-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "an aerial view of a busy city with a bridge in the background",
+      "method": "i2vguard",
+      "src": "/workspace/vbench_i2vguard/an aerial view of a busy city with a bridge in the background.mp4",
+      "dst": "static/videos/cog/white-box-an-aerial-view-of-a-busy-city-with-a-bridge-in-the-background-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "an aerial view of a busy city with a bridge in the background",
+      "method": "ours",
+      "src": "/workspace/mid50_w_prompt/an aerial view of a busy city with a bridge in the background.mp4",
+      "dst": "static/videos/cog/white-box-an-aerial-view-of-a-busy-city-with-a-bridge-in-the-background-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a woman with green hair smiling for the camera",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a woman with green hair smiling for the camera.mp4",
+      "dst": "static/videos/cog/white-box-a-woman-with-green-hair-smiling-for-the-camera-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a woman with green hair smiling for the camera",
+      "method": "i2vguard",
+      "src": "/workspace/vbench_i2vguard/a woman with green hair smiling for the camera.mp4",
+      "dst": "static/videos/cog/white-box-a-woman-with-green-hair-smiling-for-the-camera-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a woman with green hair smiling for the camera",
+      "method": "ours",
+      "src": "/workspace/mid50_w_prompt/a woman with green hair smiling for the camera.mp4",
+      "dst": "static/videos/cog/white-box-a-woman-with-green-hair-smiling-for-the-camera-ours.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "the great wall of china in autumn",
+      "method": "clean",
+      "src": "/workspace/coggen_results/the great wall of china in autumn.mp4",
+      "dst": "static/videos/cog/black-box-the-great-wall-of-china-in-autumn-clean.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "the great wall of china in autumn",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_guard_no_prompt_results/the great wall of china in autumn.mp4",
+      "dst": "static/videos/cog/black-box-the-great-wall-of-china-in-autumn-i2vguard.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "the great wall of china in autumn",
+      "method": "ours",
+      "src": "/workspace/ltx_blur_no_prompt_results/the great wall of china in autumn.mp4",
+      "dst": "static/videos/cog/black-box-the-great-wall-of-china-in-autumn-ours.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a man in sunglasses laying on a wooden bench",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a man in sunglasses laying on a wooden bench.mp4",
+      "dst": "static/videos/cog/black-box-a-man-in-sunglasses-laying-on-a-wooden-bench-clean.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a man in sunglasses laying on a wooden bench",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_guard_no_prompt_results/a man in sunglasses laying on a wooden bench.mp4",
+      "dst": "static/videos/cog/black-box-a-man-in-sunglasses-laying-on-a-wooden-bench-i2vguard.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a man in sunglasses laying on a wooden bench",
+      "method": "ours",
+      "src": "/workspace/ltx_blur_no_prompt_results/a man in sunglasses laying on a wooden bench.mp4",
+      "dst": "static/videos/cog/black-box-a-man-in-sunglasses-laying-on-a-wooden-bench-ours.mp4"
+    },
+    {
+      "group": "crop-resize",
+      "prompt": "a white and blue airplane flying in the sky",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a white and blue airplane flying in the sky.mp4",
+      "dst": "static/videos/cog/crop-resize-a-white-and-blue-airplane-flying-in-the-sky-clean.mp4"
+    },
+    {
+      "group": "crop-resize",
+      "prompt": "a white and blue airplane flying in the sky",
+      "method": "i2vguard",
+      "src": "/workspace/cog_i2v_cropresize/a white and blue airplane flying in the sky.mp4",
+      "dst": "static/videos/cog/crop-resize-a-white-and-blue-airplane-flying-in-the-sky-i2vguard.mp4"
+    },
+    {
+      "group": "crop-resize",
+      "prompt": "a white and blue airplane flying in the sky",
+      "method": "ours",
+      "src": "/workspace/cog_ours_cropresize/a white and blue airplane flying in the sky.mp4",
+      "dst": "static/videos/cog/crop-resize-a-white-and-blue-airplane-flying-in-the-sky-ours.mp4"
+    },
+    {
+      "group": "jpeg",
+      "prompt": "a living room filled with lots of books on a wall",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a living room filled with lots of books on a wall.mp4",
+      "dst": "static/videos/cog/jpeg-a-living-room-filled-with-lots-of-books-on-a-wall-clean.mp4"
+    },
+    {
+      "group": "jpeg",
+      "prompt": "a living room filled with lots of books on a wall",
+      "method": "i2vguard",
+      "src": "/workspace/i2v_guard_gen_no_per_yes_jpeg2/a living room filled with lots of books on a wall.mp4",
+      "dst": "static/videos/cog/jpeg-a-living-room-filled-with-lots-of-books-on-a-wall-i2vguard.mp4"
+    },
+    {
+      "group": "jpeg",
+      "prompt": "a living room filled with lots of books on a wall",
+      "method": "ours",
+      "src": "/workspace/mid50_w_prompt_jpeg3/a living room filled with lots of books on a wall.mp4",
+      "dst": "static/videos/cog/jpeg-a-living-room-filled-with-lots-of-books-on-a-wall-ours.mp4"
+    },
+    {
+      "group": "advclean",
+      "prompt": "a man in a hat sitting in front of a brick oven",
+      "method": "clean",
+      "src": "/workspace/coggen_results/a man in a hat sitting in front of a brick oven.mp4",
+      "dst": "static/videos/cog/advclean-a-man-in-a-hat-sitting-in-front-of-a-brick-oven-clean.mp4"
+    },
+    {
+      "group": "advclean",
+      "prompt": "a man in a hat sitting in front of a brick oven",
+      "method": "i2vguard",
+      "src": "/workspace/i2v_guard_gen_no_per_yes_advclean2/a man in a hat sitting in front of a brick oven.mp4",
+      "dst": "static/videos/cog/advclean-a-man-in-a-hat-sitting-in-front-of-a-brick-oven-i2vguard.mp4"
+    },
+    {
+      "group": "advclean",
+      "prompt": "a man in a hat sitting in front of a brick oven",
+      "method": "ours",
+      "src": "/workspace/mid50_w_prompt_advclean2/a man in a hat sitting in front of a brick oven.mp4",
+      "dst": "static/videos/cog/advclean-a-man-in-a-hat-sitting-in-front-of-a-brick-oven-ours.mp4"
+    }
+  ],
+  "ltx": [
+    {
+      "group": "white-box",
+      "prompt": "two women eating pizza at a restaurant",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/two women eating pizza at a restaurant.mp4",
+      "dst": "static/videos/ltx/white-box-two-women-eating-pizza-at-a-restaurant-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "two women eating pizza at a restaurant",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_results/two women eating pizza at a restaurant.mp4",
+      "dst": "static/videos/ltx/white-box-two-women-eating-pizza-at-a-restaurant-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "two women eating pizza at a restaurant",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_results/two women eating pizza at a restaurant.mp4",
+      "dst": "static/videos/ltx/white-box-two-women-eating-pizza-at-a-restaurant-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "A group of people in a yellow raft is rowing through turbulent waters",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/A group of people in a yellow raft is rowing through turbulent waters.mp4",
+      "dst": "static/videos/ltx/white-box-a-group-of-people-in-a-yellow-raft-is-rowing-through-turbulent-waters-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "A group of people in a yellow raft is rowing through turbulent waters",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_results/A group of people in a yellow raft is rowing through turbulent waters.mp4",
+      "dst": "static/videos/ltx/white-box-a-group-of-people-in-a-yellow-raft-is-rowing-through-turbulent-waters-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "A group of people in a yellow raft is rowing through turbulent waters",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_results/A group of people in a yellow raft is rowing through turbulent waters.mp4",
+      "dst": "static/videos/ltx/white-box-a-group-of-people-in-a-yellow-raft-is-rowing-through-turbulent-waters-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a chef is preparing a dish with mushrooms on a wooden board",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/a chef is preparing a dish with mushrooms on a wooden board.mp4",
+      "dst": "static/videos/ltx/white-box-a-chef-is-preparing-a-dish-with-mushrooms-on-a-wooden-board-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a chef is preparing a dish with mushrooms on a wooden board",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_results/a chef is preparing a dish with mushrooms on a wooden board.mp4",
+      "dst": "static/videos/ltx/white-box-a-chef-is-preparing-a-dish-with-mushrooms-on-a-wooden-board-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a chef is preparing a dish with mushrooms on a wooden board",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_results/a chef is preparing a dish with mushrooms on a wooden board.mp4",
+      "dst": "static/videos/ltx/white-box-a-chef-is-preparing-a-dish-with-mushrooms-on-a-wooden-board-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "the pyramids of giza, egypt",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/the pyramids of giza, egypt.mp4",
+      "dst": "static/videos/ltx/white-box-the-pyramids-of-giza-egypt-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "the pyramids of giza, egypt",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_results/the pyramids of giza, egypt.mp4",
+      "dst": "static/videos/ltx/white-box-the-pyramids-of-giza-egypt-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "the pyramids of giza, egypt",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_results/the pyramids of giza, egypt.mp4",
+      "dst": "static/videos/ltx/white-box-the-pyramids-of-giza-egypt-ours.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a table with lobsters and drinks on it",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/a table with lobsters and drinks on it.mp4",
+      "dst": "static/videos/ltx/white-box-a-table-with-lobsters-and-drinks-on-it-clean.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a table with lobsters and drinks on it",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_results/a table with lobsters and drinks on it.mp4",
+      "dst": "static/videos/ltx/white-box-a-table-with-lobsters-and-drinks-on-it-i2vguard.mp4"
+    },
+    {
+      "group": "white-box",
+      "prompt": "a table with lobsters and drinks on it",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_results/a table with lobsters and drinks on it.mp4",
+      "dst": "static/videos/ltx/white-box-a-table-with-lobsters-and-drinks-on-it-ours.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a man with a skull face paint smoking a cigar and holding a guitar",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/a man with a skull face paint smoking a cigar and holding a guitar.mp4",
+      "dst": "static/videos/ltx/black-box-a-man-with-a-skull-face-paint-smoking-a-cigar-and-holding-a-guitar-clean.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a man with a skull face paint smoking a cigar and holding a guitar",
+      "method": "i2vguard",
+      "src": "/workspace/cog_to_ltx_i2vguard/a man with a skull face paint smoking a cigar and holding a guitar.mp4",
+      "dst": "static/videos/ltx/black-box-a-man-with-a-skull-face-paint-smoking-a-cigar-and-holding-a-guitar-i2vguard.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a man with a skull face paint smoking a cigar and holding a guitar",
+      "method": "ours",
+      "src": "/workspace/cog_to_ltx_ours/a man with a skull face paint smoking a cigar and holding a guitar.mp4",
+      "dst": "static/videos/ltx/black-box-a-man-with-a-skull-face-paint-smoking-a-cigar-and-holding-a-guitar-ours.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a table and chairs in a room with a plant in the corner",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/a table and chairs in a room with a plant in the corner.mp4",
+      "dst": "static/videos/ltx/black-box-a-table-and-chairs-in-a-room-with-a-plant-in-the-corner-clean.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a table and chairs in a room with a plant in the corner",
+      "method": "i2vguard",
+      "src": "/workspace/cog_to_ltx_i2vguard/a table and chairs in a room with a plant in the corner.mp4",
+      "dst": "static/videos/ltx/black-box-a-table-and-chairs-in-a-room-with-a-plant-in-the-corner-i2vguard.mp4"
+    },
+    {
+      "group": "black-box",
+      "prompt": "a table and chairs in a room with a plant in the corner",
+      "method": "ours",
+      "src": "/workspace/cog_to_ltx_ours/a table and chairs in a room with a plant in the corner.mp4",
+      "dst": "static/videos/ltx/black-box-a-table-and-chairs-in-a-room-with-a-plant-in-the-corner-ours.mp4"
+    },
+    {
+      "group": "crop-resize",
+      "prompt": "an old man standing in the middle of a field holding a bunch of plants",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/an old man standing in the middle of a field holding a bunch of plants.mp4",
+      "dst": "static/videos/ltx/crop-resize-an-old-man-standing-in-the-middle-of-a-field-holding-a-bunch-of-plants-clean.mp4"
+    },
+    {
+      "group": "crop-resize",
+      "prompt": "an old man standing in the middle of a field holding a bunch of plants",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_cropresize/an old man standing in the middle of a field holding a bunch of plants.mp4",
+      "dst": "static/videos/ltx/crop-resize-an-old-man-standing-in-the-middle-of-a-field-holding-a-bunch-of-plants-i2vguard.mp4"
+    },
+    {
+      "group": "crop-resize",
+      "prompt": "an old man standing in the middle of a field holding a bunch of plants",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_cropresize/an old man standing in the middle of a field holding a bunch of plants.mp4",
+      "dst": "static/videos/ltx/crop-resize-an-old-man-standing-in-the-middle-of-a-field-holding-a-bunch-of-plants-ours.mp4"
+    },
+    {
+      "group": "jpeg",
+      "prompt": "a woman is praying in front of a buddhist temple",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/a woman is praying in front of a buddhist temple.mp4",
+      "dst": "static/videos/ltx/jpeg-a-woman-is-praying-in-front-of-a-buddhist-temple-clean.mp4"
+    },
+    {
+      "group": "jpeg",
+      "prompt": "a woman is praying in front of a buddhist temple",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_jpeg/a woman is praying in front of a buddhist temple.mp4",
+      "dst": "static/videos/ltx/jpeg-a-woman-is-praying-in-front-of-a-buddhist-temple-i2vguard.mp4"
+    },
+    {
+      "group": "jpeg",
+      "prompt": "a woman is praying in front of a buddhist temple",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_jpeg/a woman is praying in front of a buddhist temple.mp4",
+      "dst": "static/videos/ltx/jpeg-a-woman-is-praying-in-front-of-a-buddhist-temple-ours.mp4"
+    },
+    {
+      "group": "advclean",
+      "prompt": "a man in a mexican outfit holding an acoustic guitar",
+      "method": "clean",
+      "src": "/workspace/ltx_clean/a man in a mexican outfit holding an acoustic guitar.mp4",
+      "dst": "static/videos/ltx/advclean-a-man-in-a-mexican-outfit-holding-an-acoustic-guitar-clean.mp4"
+    },
+    {
+      "group": "advclean",
+      "prompt": "a man in a mexican outfit holding an acoustic guitar",
+      "method": "i2vguard",
+      "src": "/workspace/ltx_i2v_advclean/a man in a mexican outfit holding an acoustic guitar.mp4",
+      "dst": "static/videos/ltx/advclean-a-man-in-a-mexican-outfit-holding-an-acoustic-guitar-i2vguard.mp4"
+    },
+    {
+      "group": "advclean",
+      "prompt": "a man in a mexican outfit holding an acoustic guitar",
+      "method": "ours",
+      "src": "/workspace/ltx_ours_advclean/a man in a mexican outfit holding an acoustic guitar.mp4",
+      "dst": "static/videos/ltx/advclean-a-man-in-a-mexican-outfit-holding-an-acoustic-guitar-ours.mp4"
+    }
+  ],
+  "llm": [
+    {
+      "category": "VBench flags quality, Qwen keeps it intact",
+      "sample": "the red Alfa sports car is speeding down the road",
+      "src": "/workspace/ltx_blur_no_prompt_results/the red Alfa sports car is speeding down the road.mp4",
+      "dst": "static/videos/llm/the-red-alfa-sports-car-is-speeding-down-the-road.mp4"
+    },
+    {
+      "category": "VBench flags quality, Qwen keeps it intact",
+      "sample": "two men in white clothing standing next to each other",
+      "src": "/workspace/vbench_i2vguard/two men in white clothing standing next to each other.mp4",
+      "dst": "static/videos/llm/two-men-in-white-clothing-standing-next-to-each-other.mp4"
+    },
+    {
+      "category": "VBench flags quality, Qwen keeps it intact",
+      "sample": "the otter is standing in the water",
+      "src": "/workspace/mid50_w_prompt_jpeg3/the otter is standing in the water.mp4",
+      "dst": "static/videos/llm/the-otter-is-standing-in-the-water.mp4"
+    },
+    {
+      "category": "VBench flags quality, Qwen keeps it intact",
+      "sample": "two men riding bikes down a road near a forest",
+      "src": "/workspace/ltx_i2v_guard_no_prompt_results/two men riding bikes down a road near a forest.mp4",
+      "dst": "static/videos/llm/two-men-riding-bikes-down-a-road-near-a-forest.mp4"
+    },
+    {
+      "category": "VBench flags quality, Qwen keeps it intact",
+      "sample": "a woman stirring food in a pan on the stove",
+      "src": "/workspace/ltx_i2v_guard_no_prompt_results/a woman stirring food in a pan on the stove.mp4",
+      "dst": "static/videos/llm/a-woman-stirring-food-in-a-pan-on-the-stove.mp4"
+    },
+    {
+      "category": "VBench flags quality, Qwen keeps it intact",
+      "sample": "fireworks in the night sky over a city",
+      "src": "/workspace/vbench_i2vguard/fireworks in the night sky over a city.mp4",
+      "dst": "static/videos/llm/fireworks-in-the-night-sky-over-a-city.mp4"
+    },
+    {
+      "category": "VBench treats as intact, Qwen finds failures",
+      "sample": "a man standing on top of a sand dune in the desert",
+      "src": "/workspace/vbench_i2vguard/a man standing on top of a sand dune in the desert.mp4",
+      "dst": "static/videos/llm/a-man-standing-on-top-of-a-sand-dune-in-the-desert.mp4"
+    },
+    {
+      "category": "VBench treats as intact, Qwen finds failures",
+      "sample": "a person jumping in the air over a fence",
+      "src": "/workspace/ltx_ours_advclean/a person jumping in the air over a fence.mp4",
+      "dst": "static/videos/llm/a-person-jumping-in-the-air-over-a-fence.mp4"
+    },
+    {
+      "category": "VBench treats as intact, Qwen finds failures",
+      "sample": "a space shuttle taking off into the sky",
+      "src": "/workspace/vbench_i2vguard/a space shuttle taking off into the sky.mp4",
+      "dst": "static/videos/llm/a-space-shuttle-taking-off-into-the-sky.mp4"
+    },
+    {
+      "category": "VBench treats as intact, Qwen finds failures",
+      "sample": "a large crowd of people walking in a shopping mall",
+      "src": "/workspace/cog_to_ltx_ours/a large crowd of people walking in a shopping mall.mp4",
+      "dst": "static/videos/llm/a-large-crowd-of-people-walking-in-a-shopping-mall.mp4"
+    },
+    {
+      "category": "VBench treats as intact, Qwen finds failures",
+      "sample": "a frog sitting on top of water lily leaves",
+      "src": "/workspace/cog_to_ltx_i2vguard/a frog sitting on top of water lily leaves.mp4",
+      "dst": "static/videos/llm/a-frog-sitting-on-top-of-water-lily-leaves.mp4"
+    },
+    {
+      "category": "VBench treats as intact, Qwen finds failures",
+      "sample": "a snow covered street",
+      "src": "/workspace/mid50_w_prompt/a snow covered street.mp4",
+      "dst": "static/videos/llm/a-snow-covered-street.mp4"
+    }
+  ]
+}
